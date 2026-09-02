@@ -1,0 +1,4 @@
+github简历网址： https://zjmandzl.github.io/zjm/
+netlify简历网址：zjmzjm.netlify.app（netlify免费额度用完了没更新）
+netlify飞机大战游戏网址：fjdzzjm.netlify.app
+github坦克大战网址： https://zjmandzl.github.io/tkdzzjm/
